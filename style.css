@@ -1,0 +1,26 @@
+body{
+    font-family: arial;
+    background-image: url("glitter.jpg");
+}
+h1{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.blue{
+    text-align: center;
+    background-color: powderblue;
+}
+#p2{
+    text-align: center;
+    background-color: violet;
+    text-decoration: underline;
+}
+#unicorn{
+    border-radius: 25px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+}
+#center{
+    text-align: center;
+}
